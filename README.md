@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Sneha 👋
 
-<!--
-**sneha2623thakur/sneha2623thakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Science | AI/ML | Data Analytics
 
-Here are some ideas to get you started:
+🎓 **MSc Data Science** | Fergusson College
+💻 **BSc Computer Science**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On
+
+* Machine Learning & Deep Learning
+* Generative AI, LLMs & RAG
+* Data Analytics & Business Intelligence
+* Python, SQL & Power BI
+
+### 🛠️ Skills
+
+**Languages:** Python, SQL
+**Data:** Pandas, NumPy, Power BI, DAX
+**ML/DL:** Scikit-learn, XGBoost, TensorFlow, NLP
+**GenAI:** LLMs, RAG, Prompt Engineering
+**Development:** Flask, FastAPI, Git & GitHub
+
+### 📜 Certifications
+
+* Machine Learning
+* Data Analytics
+* SQL
+* Power BI
+* Generative AI
+
+### 🌱 Interests
+
+AI/ML • Data Science • Generative AI • Analytics • Automation
+
+### 🤝 Open To
+
+Data Science • Data Analyst • AI/ML opportunities
+
+📫 **Let's connect and build something impactful.**
+
